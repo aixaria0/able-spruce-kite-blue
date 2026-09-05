@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lattice",
+      "hasCanvas": false,
+      "bodyTextLen": 1363,
+      "bodyTextHash": "63bdd9052af176a3ebc35f503910671120d4c8c4deb2a0f76077c2ea57feb7a2",
+      "bodyTextPrefix": "LATTICE ENTANGLED MESH Control Mesh ZX Decoder Codes Ledger HYBR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lattice",
+      "hasCanvas": false,
+      "bodyTextLen": 1348,
+      "bodyTextHash": "bf96e4f5e4f24f559b6426b883da6d31ff3395a2af7d7bba328bddce5ecc87a2",
+      "bodyTextPrefix": "LATTICE Control Mesh ZX Decoder Codes Ledger HYBRID CLASSICAL–QU",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

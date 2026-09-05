@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lattice",
+      "hasCanvas": false,
+      "bodyTextLen": 1192,
+      "bodyTextHash": "fb3549981208b8312ce9d5025dd5eeea69acf4da046f9b73fd8f4e2d142f724e",
+      "bodyTextPrefix": "LATTICE HYBRID CERTIFICATE PLANE Control plane Codes Ledger HYBR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lattice",
+      "hasCanvas": false,
+      "bodyTextLen": 1169,
+      "bodyTextHash": "5bebde2f0eb75485f559dcf2cd58c68065e3003996a71a7c754731ae54800d9e",
+      "bodyTextPrefix": "LATTICE Control plane Codes Ledger HYBRID CLASSICAL–QUANTUM Cert",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
